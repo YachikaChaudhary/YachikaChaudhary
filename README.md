@@ -17,7 +17,7 @@
 <p align="left"><b>About me</b></p>
 
 ###
-<p align="left">🫡   Hi, I'm Yachika.<br>🌍   A technology enthusiast passionate about building, learning, and innovating.<br>👨‍💻   Interested in Full Stack Webdevelopment, AI/ML and Cybersecurity.<br>📈   Growing every day through curiosity and persistence.</p>
+<p align="left">🫡   Hi, I'm Yachika Chaudhary.<br>🌍   A technology enthusiast passionate about building, learning, and innovating.<br>👨‍💻   Interested in Full Stack Webdevelopment, AI/ML and Cybersecurity.<br>📈   Growing every day through curiosity and persistence.</p>
 
 ###
 <table>
