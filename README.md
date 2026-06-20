@@ -20,12 +20,20 @@
 <p align="left">🫡   Hi, I'm Yachika.<br>🌍   A technology enthusiast passionate about building, learning, and innovating.<br>👨‍💻   Interested in Full Stack Webdevelopment, AI/ML and Cybersecurity.<br>📈   Growing every day through curiosity and persistence.</p>
 
 ###
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yachikachaudhary&show_icons=true&locale=en" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yachikachaudhary" />
+    </td>
+  </tr>
+</table>
+ <div> 
+<h2 align="left"> I code with </h2>
+</div>
 
-###
-<br>
-<h2 align="left">I code with </h2>
-
-###
 <div align="left">
        <img align="right" height="175" src="https://i.imgflip.com/65efzo.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
