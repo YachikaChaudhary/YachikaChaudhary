@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
 </div> -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YachikaChaudhary)&nbsp;&nbsp;&nbsp;&nbsp;[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/yachika07)&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yachikachaudhary2023@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YachikaChaudhary)&nbsp;&nbsp;&nbsp;&nbsp;[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/yachika07)&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yachikachaudharyweb@gmail.com)
 
 ###
 
