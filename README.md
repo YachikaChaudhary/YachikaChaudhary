@@ -1,30 +1,26 @@
 <br clear="both">
-
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<h1 align="center">Hey👋, I'm Yachika Chaudhary.</h1>
+<h1 align="center">Hey🎀, I'm Yachika Chaudhary.</h1>
 
 ###
 
 <h2 align="center">IT Enthusiast | Learning, Building, and Growing from India</h2>
 
 ###
-<br> 
-<p align="left"><b>About me</b></p>
-
-###
-<p align="left">🫡   Hi, I'm Yachika Chaudhary.<br>🌍   A technology enthusiast passionate about building, learning, and innovating.<br>👨‍💻   Interested in Full Stack Webdevelopment, AI/ML and Cybersecurity.<br>📈   Growing every day through curiosity and persistence.</p>
+ <h3 align="left">❤️ About me </h3>
+<p align="left">🦋 Hi, I'm Yachika Chaudhary.<br>🌍   A technology enthusiast passionate about building, learning, and innovating.<br>👨‍💻   Interested in Full Stack Webdevelopment, AI/ML and Cybersecurity.<br>📈   Growing every day through curiosity and persistence.</p>
 
 ###
 
 ![snake gif](https://github.com/yachikachaudhary/yachikachaudhary/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
-<h2 align="left"> Tech Stack </h2>
+<h3 align="left">❤️ Tech Stack </h3>
 </div>
 <div align="left">
        <img align="right" height="175" src="https://i.imgflip.com/65efzo.gif"  />
@@ -73,7 +69,7 @@
 
 ###
 <br> 
-<h2 align="left">Connect with me </h2>
+<h3 align="left">❤️ Connect with me </h3>
 
 ###
 
@@ -98,13 +94,13 @@
   </tr>
 </table>
 
-## Ownership & Copyright
+## ⚖️ Ownership & Copyright ⚖️
 
-This repository and all original source code are created and maintained by Yachika.
+This repository and all original source code are created and maintained by Yachika. 
 
-© 2026 Yachika. All rights reserved.
+© 2026 Yachika. All rights reserved. 
 
-This project may not be copied, redistributed, modified, or used commercially without permission.
+This project may not be copied, redistributed, modified, or used commercially without permission. 
 
 <br clear="both">
 <br>
