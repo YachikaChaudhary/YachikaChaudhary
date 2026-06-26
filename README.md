@@ -20,20 +20,12 @@
 <p align="left">🫡   Hi, I'm Yachika Chaudhary.<br>🌍   A technology enthusiast passionate about building, learning, and innovating.<br>👨‍💻   Interested in Full Stack Webdevelopment, AI/ML and Cybersecurity.<br>📈   Growing every day through curiosity and persistence.</p>
 
 ###
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yachikachaudhary&show_icons=true&locale=en" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yachikachaudhary" />
-    </td>
-  </tr>
-</table>
- <div> 
-<h2 align="left"> I code with </h2>
-</div>
 
+![snake gif](https://github.com/yachikachaudhary/yachikachaudhary/blob/output/github-contribution-grid-snake.svg)
+
+<div> 
+<h2 align="left"> Tech Stack </h2>
+</div>
 <div align="left">
        <img align="right" height="175" src="https://i.imgflip.com/65efzo.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -95,14 +87,16 @@
 
 ###
 
-<br clear="both">
-<br>
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yachikachaudhary&show_icons=true&locale=en" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yachikachaudhary" />
+    </td>
+  </tr>
+</table>
 
 ## Ownership & Copyright
 
@@ -112,6 +106,11 @@ This repository and all original source code are created and maintained by Yachi
 
 This project may not be copied, redistributed, modified, or used commercially without permission.
 
+<br clear="both">
+<br>
 
-![snake gif](https://github.com/yachikachaudhary/yachikachaudhary/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 
