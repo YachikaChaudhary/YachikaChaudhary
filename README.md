@@ -103,3 +103,11 @@
 </div>
 
 ###
+
+## Ownership & Copyright
+
+This repository and all original source code are created and maintained by Yachika.
+
+© 2026 Yachika. All rights reserved.
+
+This project may not be copied, redistributed, modified, or used commercially without permission.
