@@ -111,3 +111,7 @@ This repository and all original source code are created and maintained by Yachi
 © 2026 Yachika. All rights reserved.
 
 This project may not be copied, redistributed, modified, or used commercially without permission.
+
+
+![snake gif](https://github.com/yachikachaudhary/yachikachaudhary/blob/output/github-contribution-grid-snake.svg)
+
