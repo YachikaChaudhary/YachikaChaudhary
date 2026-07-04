@@ -11,6 +11,9 @@
 ###
 
 <h2 align="center">IT Enthusiast | Learning, Building, and Growing from India</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Exploring+AI+and+Automation;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
 
 ###
  <h3 align="left">❤️ About me </h3>
