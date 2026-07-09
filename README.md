@@ -102,6 +102,12 @@
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/YachikaChaudhary">YachikaChaudhary</a></i></p>
 
+<p align="center">
+  <a href="https://github.com/YachikaChaudhary">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&fontSize=30&height=70&width=1018&text=Let%27s%20collaborate%20and%20build%20something%20impactful%20together%21" alt="Let's collaborate and build something impactful together!" />
+  </a>
+</p>
+
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
