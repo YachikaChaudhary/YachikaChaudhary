@@ -1,27 +1,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yachikachaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="yachikachaudhary" /> </p>
 <br clear="both">
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
-###
-
-<h1 align="center">Hey🎀, I'm Yachika Chaudhary.</h1>
-
-###
-
-<h2 align="center">IT Enthusiast | Learning, Building, and Growing from India</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Exploring+AI+and+Automation;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <a href="https://github.com/YachikaChaudhary">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&fontSize=50&height=90&width=1018&text=Hey!%20%F0%9F%8E%80%20I'm%20Yachika%20Chaudhary" alt="Hey! 🎀 I&#39;m Yachika Chaudhary" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=895&height=44&lines=IT%20Enthusiast%2C%20Learning%2C%20Building%2C%20and%20Growing%20from%20India;Always%20Learning%20New%20Tech!" alt="Typing headlines" />
 </p>
 
 ###
- <h3 align="left">❤️ About me </h3>
-<p align="left">🦋 Hi, I'm Yachika Chaudhary.<br>🌍   A technology enthusiast passionate about building, learning, and innovating.<br>👨‍💻   Interested in Full Stack Webdevelopment, AI/ML and Cybersecurity.<br>📈   Growing every day through curiosity and persistence.</p>
+ <h3 align="left" >❤️ About me </h3>
+👨‍💻 A technology enthusiast passionate about building, learning, and innovating. 📈 Growing every day through curiosity and persistence. 🦋
 
-###
-
-![snake gif](https://github.com/yachikachaudhary/yachikachaudhary/blob/output/github-contribution-grid-snake.svg)
+&nbsp;I'm currently working on **A full stack video conferencing web application.**  
+&nbsp;I'm currently learning **Full Stack Webdevelopment, AI/ML and Cybersecurity.**  
+&nbsp;I'm looking for help with **open-source contributions, Git workflows, and collaborative software development.**  
+😄&nbsp;Fun fact: **I believe semicolons have feelings too.**
 
 <div> 
 <h3 align="left">❤️ Tech Stack </h3>
@@ -85,18 +82,30 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YachikaChaudhary)&nbsp;&nbsp;&nbsp;&nbsp;[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/yachika07)&nbsp;&nbsp;&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yachikachaudharyweb@gmail.com)
 
-###
 
-<table>
-  <tr>
-    <!-- <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yachikachaudhary&show_icons=true&locale=en" />
-    </td> -->
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yachikachaudhary" />
-    </td>
-  </tr>
-</table>
+###
+![snake gif](https://github.com/yachikachaudhary/yachikachaudhary/blob/output/github-contribution-grid-snake.svg)
+
+❤️ GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=YachikaChaudhary&show_icons=true&theme=tokyonight&title_color=f9a4d1&text_color=ffffff&icon_color=f9a4d1&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=YachikaChaudhary&layout=compact&theme=tokyonight&title_color=f9a4d1&text_color=ffffff&icon_color=f9a4d1&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+❤️ Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YachikaChaudhary&bg_color=00000000&color=f9a4d1&line=f9a4d1&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/YachikaChaudhary">YachikaChaudhary</a></i></p>
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 
 ## ⚖️ Ownership & Copyright ⚖️
 
@@ -107,10 +116,8 @@ This repository and all original source code are created and maintained by Yachi
 This project may not be copied, redistributed, modified, or used commercially without permission. 
 
 <br clear="both">
-<br>
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
+
 
 
