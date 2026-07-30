@@ -16,7 +16,7 @@
 👨‍💻 A technology enthusiast passionate about building, learning, and innovating. 📈 Growing every day through curiosity and persistence. 🦋
 
 &nbsp;I'm currently working on **A full stack video conferencing web application.**  
-&nbsp;I'm currently learning **Full Stack Webdevelopment, AI/ML and Cybersecurity.**  
+&nbsp;I'm currently learning **MERN Stack Webdevelopment, AI/ML and Cybersecurity.**  
 &nbsp;I'm looking for help with **open-source contributions, Git workflows, and collaborative software development.**  
 😄&nbsp;Fun fact: **I believe semicolons have feelings too.**
 
